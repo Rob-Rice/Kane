@@ -1,35 +1,42 @@
 <div class="f__container" style="display: flex;">
-<div class="f-card" style="text-align:left;flex: 1;">
+<div class="f-card" style="flex: 1;">
+<a href="http://kane.p80clients.com/">
+<img style="margin-right: 100%;" src="http://kane.p80clients.com/wp-content/uploads/2022/10/Kane-PA-white.png" decoding="async" alt="Kane, A Star In The Forest Logo" class="wp-image-323" width="195" height="155">
+</a>
+</div>
+<div class="f-card" style="text-align:left;flex: 1; margin-right: 5%;">
 <h4 class="f-title">Kane Borough Office</h4>
 <p class="f-address">112 Bayard Street</p>
 <p class="f-address">Kane, PA 16735</p>
-<a class="f-phone" href="tel:+8148379240">814-837-9240</a><br />
-<a class="f-email" href="mailto:office@kaneboro.com">office@kaneboro.com</a><br />
-   <a class="f-f__logo" href="https://www.facebook.com/kaneborough" target="_blank">
-   <svg style="fill: #fff; width: 35px; padding: 5%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>
+<p><a style="color: #fff; text-decoration: underline #fff;" class="f-phone" href="tel:+8148379240">814-837-9240</a><br>
+<a style="color: #fff; text-decoration: underline #fff;" class="f-email" href="mailto:office@kaneboro.com">office@kaneboro.com</a><br>
+   <a class="f-f__logo" href="https://www.facebook.com/kaneborough" target="_blank"><br>
+   <svg style="fill: #fff; width: 35px; padding: 5% 0;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg><br>
    </a>
-</div>
-<div class="f-card" style="text-align:left;flex: 1;">
+</p></div>
+<div class="f-card" style="text-align:left;flex: 1;margin-right: 5%;">
 <h4 class="f-title">Kane Area Development Center</h4>
 <h4>Kane Area Chamber, KARE, KAIDC</h4>
 <p class="f-address">63 N. Fraley Street, Suite 101</p>
 <p class="f-address">Kane, PA 16735</p>
-<a class="f-phone" href="tel:+8148376565">814-837-6565</a><br />
-    <a class="f-email" href="mailto:info@kanepa.com">info@kanepa.com</a>
-<div class="icon-flex" style="display: flex;">
-    <a class="f-f__logo" href="https://www.facebook.com/kane.pennsylvania" target="_blank" style="padding: 0 5% 0 0;">
-   <svg style="fill: #fff; width: 35px; padding: 5%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>
-   </a>
-    <a class="f-i__logo" href="https://www.instagram.com/kaneareadevelopmentcenter/" target="_blank">
-   <svg style="fill:#fff; width: 35px; padding: 5%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></a></p><a class="f-i__logo" href="https://www.instagram.com/kaneareadevelopmentcenter/" target="_blank">
-</a><p><a class="f-i__logo" href="https://www.instagram.com/kaneareadevelopmentcenter/" target="_blank">   </a>
+<p><a style="color: #fff; text-decoration: underline #fff;" class="f-phone" href="tel:+8148376565">814-837-6565</a><br>
+    <a style="color: #fff; text-decoration: underline #fff;" class="f-email" href="mailto:info@kanepa.com">info@kanepa.com</a></p>
+<div class="icon-flex" style="display: flex;padding: 5% 0 0 0;">
+    <a class="f-f__logo" href="https://www.facebook.com/kane.pennsylvania" target="_blank" style="padding: 0 5% 0 0;"><br>
+   <svg style="fill: #fff; width: 35px; padding: 5% 0;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg><br>
+   </a><br>
+    <a class="f-i__logo" href="https://www.instagram.com/kaneareadevelopmentcenter/" target="_blank"><br>
+   <svg style="fill:#fff; width: 35px; padding: 5% 0;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></a><p></p>
+<p><a class="f-i__logo" href="https://www.instagram.com/kaneareadevelopmentcenter/" target="_blank"><br>
+</a></p>
+<p><a class="f-i__logo" href="https://www.instagram.com/kaneareadevelopmentcenter/" target="_blank">   </a>
+</p></div>
 </div>
-</div>
-<div class="f-card" style="text-align:left;flex: 1;">
+<div class="f-card" style="text-align:left;flex: 1;margin-right: 5%;">
 <h4 class="f-title">Kane Mayor Brandy Schimp</h4>
-   <a class="f-email" href="mailto:kanemayor@gmail.com">kanemayor@gmail.com</a><br />
-   <a class="f-f__logo" href="https://www.facebook.com/profile.php?id=100057684114551" target="_blank">
-   <svg style="fill: #fff; width: 35px; padding: 5%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>
+<p>   <a style="color: #fff; text-decoration: underline #fff;" class="f-email" href="mailto:kanemayor@gmail.com">kanemayor@gmail.com</a><br>
+   <a class="f-f__logo" href="https://www.facebook.com/profile.php?id=100057684114551" target="_blank"><br>
+   <svg style="fill: #fff; width: 35px; padding: 5% 0;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg><br>
     </a>
-  </div>
+  </p></div>
 </div>
